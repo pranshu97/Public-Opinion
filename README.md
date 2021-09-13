@@ -1,5 +1,5 @@
-# Public Sentiment Finder
-Find's the sentiment of public on a given keyword in the last n number of days.
+# Public Opinion
+Find's the opinion of public on a given keyword in the last n number of days using a NLP Sentiment Analysis model.
 Searches tweets on a given keyword, analyses the tweets to differentiate between positive and negative. creates a powerpoint presentation of the data and mails it to the provided email address.
 
 To run the program:
