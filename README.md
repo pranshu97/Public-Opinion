@@ -1,5 +1,6 @@
-# Twitter-Sentiment-Analysis
-Searches tweets on a given keyword, analyses the tweets to differentiate between positive and negative. creates a powerpoint presentation of the given data and mails it to the provided email address.
+# Public Sentiment Finder
+Find's the sentiment of public on a given keyword in the last n number of days.
+Searches tweets on a given keyword, analyses the tweets to differentiate between positive and negative. creates a powerpoint presentation of the data and mails it to the provided email address.
 
 To run the program:
 - Open command line and change directory to the location where the files are stored.
